@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="forset.png">
+	<!-- Created with Adobe Animate version 15.1.0.210 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bian.png0000" x="0" y="0" width="22" height="12" pivotX="11.1" pivotY="13.1"/>
+	<SubTexture name="dipi.png0000" x="23" y="0" width="304" height="19" pivotX="152.05" pivotY="20.9"/>
+	<SubTexture name="wenli.png0000" x="328" y="0" width="14" height="14" pivotX="7.65" pivotY="15.35"/>
+</TextureAtlas>

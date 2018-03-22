@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wener.png">
+	<!-- Created with Adobe Animate version 15.1.0.210 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="旅店 实例 10000" x="4" y="4" width="471" height="398" pivotX="235.6" pivotY="398.7"/>
+</TextureAtlas>

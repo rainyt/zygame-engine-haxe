@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="forest_ whine.png">
+	<!-- Created with Adobe Animate version 15.1.0.210 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="aihao0000" x="0" y="0" width="147" height="208" pivotX="-368.75" pivotY="-197.8" frameX="-28" frameY="-44" frameWidth="175" frameHeight="255"/>
+	<SubTexture name="aihao0001" x="147" y="0" width="147" height="251" frameX="0" frameY="-1" frameWidth="175" frameHeight="255"/>
+	<SubTexture name="aihao0002" x="294" y="0" width="127" height="255" frameX="-29" frameY="0" frameWidth="175" frameHeight="255"/>
+	<SubTexture name="aihao0003" x="0" y="255" width="108" height="191" frameX="-31" frameY="-57" frameWidth="175" frameHeight="255"/>
+	<SubTexture name="aihao0004" x="108" y="255" width="134" height="209" frameX="-19" frameY="-42" frameWidth="175" frameHeight="255"/>
+	<SubTexture name="aihao0005" x="242" y="255" width="121" height="209" frameX="-28" frameY="-36" frameWidth="175" frameHeight="255"/>
+	<SubTexture name="aihao0006" x="363" y="255" width="133" height="93" frameX="-42" frameY="-154" frameWidth="175" frameHeight="255"/>
+</TextureAtlas>

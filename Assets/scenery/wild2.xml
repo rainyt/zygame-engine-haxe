@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wild2.png">
+	<!-- Created with Adobe Animate version 15.1.0.210 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="尖刺 实例 10000" x="4" y="4" width="56" height="54" pivotX="0" pivotY="0"/>
+	<SubTexture name="帐篷 实例 10000" x="64" y="4" width="201" height="124" pivotX="0" pivotY="0"/>
+	<SubTexture name="平台 实例 10000" x="269" y="4" width="181" height="165" pivotX="0" pivotY="0"/>
+	<SubTexture name="平台2 实例 10000" x="4" y="173" width="69" height="138" pivotX="15" pivotY="49.5"/>
+	<SubTexture name="栅栏 实例 10000" x="77" y="173" width="162" height="40" pivotX="0" pivotY="-0.05"/>
+	<SubTexture name="梯子 实例 10000" x="243" y="173" width="60" height="283" pivotX="0" pivotY="0"/>
+	<SubTexture name="瞭望塔 实例 10000" x="307" y="173" width="117" height="382" pivotX="0" pivotY="0"/>
+	<SubTexture name="矛 实例 10000" x="428" y="173" width="34" height="94" pivotX="0" pivotY="0"/>
+	<SubTexture name="石堆 实例 10000" x="4" y="559" width="161" height="42" pivotX="13.25" pivotY="1.65"/>
+	<SubTexture name="石堆2 实例 10000" x="169" y="559" width="69" height="30" pivotX="0" pivotY="0"/>
+	<SubTexture name="笼子 实例 10000" x="242" y="559" width="142" height="68" pivotX="0" pivotY="0"/>
+	<SubTexture name="笼子2 实例 10000" x="388" y="559" width="55" height="162" pivotX="0" pivotY="0"/>
+	<SubTexture name="笼子3 实例 10000" x="4" y="725" width="181" height="134" pivotX="0" pivotY="0"/>
+	<SubTexture name="箭 实例 10000" x="189" y="725" width="37" height="26" pivotX="0" pivotY="0"/>
+	<SubTexture name="荆棘 实例 10000" x="230" y="725" width="118" height="33" pivotX="2.55" pivotY="4.35"/>
+	<SubTexture name="草丛 实例 10000" x="352" y="725" width="80" height="57" pivotX="0" pivotY="0"/>
+	<SubTexture name="草丛2 实例 10000" x="4" y="863" width="108" height="39" pivotX="0" pivotY="0"/>
+	<SubTexture name="骨头 实例 10000" x="116" y="863" width="93" height="41" pivotX="0" pivotY="0"/>
+	<SubTexture name="高杆营火 实例 10000" x="213" y="863" width="36" height="78" pivotX="22.2" pivotY="0"/>
+	<SubTexture name="？？？ 实例 10000" x="253" y="863" width="83" height="106" pivotX="0" pivotY="0"/>
+</TextureAtlas>

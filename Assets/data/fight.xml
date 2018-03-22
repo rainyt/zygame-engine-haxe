@@ -1,0 +1,249 @@
+<fightdata>
+	<init name="默认参数">
+		<data name="体力" id="hp" value="1000" info="角色的总生命"/>
+		<data name="力量" id="power" value="50"/>
+		<data name="魔力" id="magic" value="50"/>
+		<data name="物理防御" id="armorDefense" value="25"/>
+		<data name="魔法防御" id="magicDefense" value="25"/>
+		<data name="负重" id="gravity" value="100" info="值越大弹飞得越高，最小值为0，为不可弹起或击退"/>
+		<data name="命中率" id="shooting" value="100"/>
+		<data name="闪避率" id="dodgeRate" value="1"/>
+		<data name="暴击率" id="crit" value="10"/>
+		<data name="暴击伤害" id="critHurt" value="150"/>
+		<data name="移动速度" id="speed" value="4"/>
+		<data name="跳跃力" id="jump" value="20"/>
+		<data name="攻击欲望" id="desire" value="50"/>
+		<data name="成长" id="growth" value="50" info="影响经验值的长短"/>
+		<data name="经验奖励" id="expRewards" value="50" info="被杀的时候，可得到的经验值"/>
+		<data name="抗击" id="beatBack" value="1" info="强壮的角色，抗击能力就越强，没那么容易被击飞以及击退，技能打断等。"/>
+		<data name="复活时间" id="resurrectionTime" value="60" info="复活的时间，单位为秒。"/>
+		<data name="含金量" id="gold" value="10" info="被杀时，会经过此值进行计算出可得到的金币数量。"/>
+		<data name="幸运" id="lucky" value="1" info="幸运加成，可以为你的金币，物品爆出率提高一定的可能。"/>
+	</init>
+	<rock name="虫子">
+		<info>
+			“又是一个美好日子啊，吃了睡，睡了吃。真好！嗯？那边有光？看着好暖和的样子，过去看看。唉？还有个人，和他打个招呼吧~啊！为什么要打我？好痛！不...不行，会死的！要快跑......”
+　			“额...伤口，好痛！为什么要攻击我？我不想伤害你啊！什么？是为了材料？就为了我身上的材料？就为了这个就要杀了我吗！人类...不！可！饶！恕！”
+		</info>
+		<props>
+			<item id="虫壳" chance="0.7"/>
+		</props>
+		<data name="体力" value="0.25"/>
+		<data name="力量" value="0.1"/>
+		<data name="物理防御" value="0.1"/>
+		<data name="魔法防御" value="0.1"/>
+		<data name="移动速度" value="0.5"/>
+		<data name="经验奖励"  value="0.35"/>
+	</rock>
+	<rock_dian name="科比小虫">
+		<info>
+			“又是一个美好日子啊，吃了睡，睡了吃。真好！嗯？那边有光？看着好暖和的样子，过去看看。唉？还有个人，和他打个招呼吧~啊！为什么要打我？好痛！不...不行，会死的！要快跑......”
+　			“额...伤口，好痛！为什么要攻击我？我不想伤害你啊！什么？是为了材料？就为了我身上的材料？就为了这个就要杀了我吗！人类...不！可！饶！恕！”
+		</info>
+		<props>
+			<item id="虫壳" chance="0.7"/>
+		</props>
+		<data name="体力" value="0.55"/>
+		<data name="力量" value="0.7"/>
+		<data name="物理防御" value="0.1"/>
+		<data name="魔法防御" value="0.6"/>
+		<data name="移动速度" value="0.5"/>
+		<data name="经验奖励"  value="0.35"/>
+	</rock_dian>
+	<diwangxie name="帝王蝎">
+		<info>
+			不怕剧毒，攻击的伤害，会50%造成中毒，中毒强度：5s扣5%的HP。
+		</info>
+		<props>
+		</props>
+		<data name="体力" value="0.65"/>
+		<data name="力量" value="0.5"/>
+		<data name="物理防御" value="0.3"/>
+		<data name="魔法防御" value="0.1"/>
+		<data name="移动速度" value="0"/>
+		<data name="经验奖励"  value="0.45"/>
+	</diwangxie>
+	<silaimuwang name="史莱姆王">
+		<info>
+			“嗯？又有人类踏进了我的领地吗？哼！我的王冠岂是那么好拿的！魔法？还真是少见啊，不过就这种慢吞吞的魔法怎么可能打得中我？不好！他们的那边是我的孩子...啊！卑鄙！居然盯着我的孩子攻击，猜到我不会躲开了吗！孩子快跑！”
+　　			“额...跑远了吧？身体没力气了...眼睛睁不开了。额咳！想不到我族世代代表权利的王冠啊，最后却是沦为了卑贱人类的装饰品...还真是可！恨！啊！！！”
+		</info>
+		<props>
+			<item id="冰岚之书" maxCount="1" chance="1"/>
+			<item id="时空之石" chance="1"/>
+			<item id="力量纹章" chance="0.3"/>
+			<item id="蓝色碎片" chance="0.5"/>
+			<item id="史莱姆王液块" chance="0.1"/>
+		</props>
+		<data name="体力" value="2"/>
+		<data name="力量" value="2"/>
+		<data name="物理防御" value="0.2"/>
+		<data name="魔法防御" value="0.2"/>
+		<data name="负重" value="0.3"/>
+		<data name="移动速度" value="0.5"/>
+		<data name="攻击欲望" value="2"/>
+		<data name="闪避率" value="-15"/>
+		<data name="复活时间" value="5"/>
+		<data name="含金量" value="5"/>
+	</silaimuwang>
+	<shilaimumeng id="史莱姆萌">
+		<info>
+			“啊呜~嗯！好好吃！这个果子好好吃！带一些回去给阿爸尝尝他一定会高兴的~啊嘞？那些人是谁？他们...怎么在打阿爸？啊！被发现了！要死了吗？呜~嗯？阿...阿爸？跑？我...我知道了！”
+　　			“啊！好痛！被绊倒了...这里是哪？阿爸？啊！是之前的果子！啊呜~真好吃啊......呜...呜哇啊啊啊~阿爸~你在哪里？我好害怕！”
+		</info>
+		<props>
+			<item id="红色碎片" chance="0.3"/>
+			<item id="小血瓶" chance="0.1"/>
+			<item id="沾满口水的水果" chance="0.6"/>
+			<item id="呆萌素" chance="0.3"/>
+		</props>
+		<data name="体力" value="0.3"/>
+		<data name="力量" value="0.4"/>
+		<data name="物理防御" value="0.2"/>
+		<data name="魔法防御" value="0.2"/>
+		<data name="移动速度" value="0.5"/>
+	</shilaimumeng>
+	<shilaimumao id="史莱姆帽">
+		<info>
+			帽子
+		</info>
+		<props>
+			<item id="小血瓶" chance="0.1"/>
+		</props>
+		<data name="体力" value="0.6"/>
+		<data name="力量" value="0.4"/>
+		<data name="物理防御" value="0.3"/>
+		<data name="魔法防御" value="0.5"/>
+		<data name="移动速度" value="0"/>
+	</shilaimumao>
+	<shilaimulan id="史莱姆兰">
+		<info>
+			“啊呜~嗯！好好吃！这个果子好好吃！带一些回去给阿爸尝尝他一定会高兴的~啊嘞？那些人是谁？他们...怎么在打阿爸？啊！被发现了！要死了吗？呜~嗯？阿...阿爸？跑？我...我知道了！”
+　　			“啊！好痛！被绊倒了...这里是哪？阿爸？啊！是之前的果子！啊呜~真好吃啊......呜...呜哇啊啊啊~阿爸~你在哪里？我好害怕！”
+		</info>
+		<props>
+			<item id="蓝色碎片" chance="0.3"/>
+			<item id="小血瓶" chance="0.05"/>
+		</props>
+		<data name="体力" value="0.5"/>
+		<data name="力量" value="1"/>
+		<data name="物理防御" value="0.2"/>
+		<data name="魔法防御" value="0.2"/>
+		<data name="移动速度" value="0.5"/>
+	</shilaimulan>
+	<xiaoshuai name="小帅">
+		<data name="力量" value="0.2"/>
+		<data name="魔力" value="0.2"/>
+		<data name="体力" value="0.8"/>
+		<data name="物理防御" value="0.5"/>
+		<data name="魔法防御" value="0.5"/>
+		<data name="暴击率" value="2.5"/>
+		<data name="闪避率" value="10"/>
+		<data name="暴击伤害" value="2"/>
+		<data name="攻击欲望" value="1.5"/>
+	</xiaoshuai>
+	<double name="Double">
+		<data name="力量" value="0.35"/>
+		<data name="魔力" value="0.1"/>
+		<data name="体力" value="0.85"/>
+		<data name="物理防御" value="0.4"/>
+		<data name="魔法防御" value="0.4"/>
+		<data name="暴击率" value="2.5"/>
+		<data name="闪避率" value="10"/>
+		<data name="暴击伤害" value="2"/>
+		<data name="攻击欲望" value="1.5"/>
+		<data name="移动速度" value="1.2"/>
+	</double>
+	<chu name="初">
+		<data name="力量" value="0.5"/>
+		<data name="魔力" value="0.1"/>
+		<data name="体力" value="1"/>
+		<data name="物理防御" value="0.5"/>
+		<data name="魔法防御" value="0.25"/>
+		<data name="暴击率" value="0.5"/>
+		<data name="闪避率" value="5"/>
+		<data name="攻击欲望" value="1.5"/>
+		<data name="命中率" value="0.9"/>
+	</chu>
+	<nur name="单单">
+		<data name="力量" value="0.7"/>
+		<data name="魔力" value="0.1"/>
+		<data name="体力" value="0.9"/>
+		<data name="物理防御" value="0.15"/>
+		<data name="魔法防御" value="0.15"/>
+		<data name="暴击率" value="1"/>
+		<data name="闪避率" value="15"/>
+		<data name="攻击欲望" value="1.5"/>
+		<data name="命中率" value="1"/>
+	</nur>
+	<suixing name="碎星">
+		<data name="力量" value="0.45"/>
+		<data name="魔力" value="0.45"/>
+		<data name="体力" value="1"/>
+		<data name="物理防御" value="0.45"/>
+		<data name="魔法防御" value="0.45"/>
+		<data name="暴击率" value="1"/>
+		<data name="闪避率" value="5"/>
+		<data name="攻击欲望" value="1.5"/>
+		<data name="命中率" value="1"/>
+		<data name="暴击伤害" value="1.25"/>
+	</suixing>
+	<shenx id="ShenX">
+		<data name="力量" value="0.1"/>
+		<data name="魔力" value="0.7"/>
+		<data name="体力" value="0.75"/>
+		<data name="物理防御" value="0.15"/>
+		<data name="魔法防御" value="0.15"/>
+		<data name="暴击率" value="1"/>
+		<data name="闪避率" value="5"/>
+		<data name="攻击欲望" value="1"/>
+		<data name="命中率" value="1.1"/>
+		<data name="暴击伤害" value="1.65"/>
+		<data name="移动速度" value="1.2"/>
+	</shenx>
+	<chen id="熬尘">
+		<data name="力量" value="0.6"/>
+		<data name="魔力" value="0.1"/>
+		<data name="体力" value="0.95"/>
+		<data name="物理防御" value="0.65"/>
+		<data name="魔法防御" value="0.35"/>
+		<data name="暴击率" value="1"/>
+		<data name="闪避率" value="3"/>
+		<data name="攻击欲望" value="1.5"/>
+		<data name="命中率" value="0.8"/>
+		<data name="暴击伤害" value="1"/>
+		<data name="移动速度" value="0.75"/>
+		<data name="负重" value="0.9"/>
+	</chen>
+	<bubai name="Josn">
+		<data name="力量" value="0.5"/>
+		<data name="魔力" value="0.3"/>
+		<data name="体力" value="0.9"/>
+		<data name="物理防御" value="0.35"/>
+		<data name="魔法防御" value="0.45"/>
+		<data name="暴击率" value="1"/>
+		<data name="闪避率" value="3"/>
+		<data name="攻击欲望" value="1.5"/>
+		<data name="命中率" value="1"/>
+		<data name="暴击伤害" value="1"/>
+		<data name="移动速度" value="1"/>
+		<data name="负重" value="1"/>
+	</bubai>
+	<daogun name="刀棍儿">
+		<data name="力量" value="0.4"/>
+		<data name="魔力" value="0.2"/>
+		<data name="体力" value="0.8"/>
+		<data name="物理防御" value="0.45"/>
+		<data name="魔法防御" value="0.35"/>
+		<data name="暴击率" value="1"/>
+		<data name="闪避率" value="5"/>
+		<data name="攻击欲望" value="1.5"/>
+		<data name="命中率" value="1"/>
+		<data name="暴击伤害" value="1"/>
+		<data name="移动速度" value="0.9"/>
+		<data name="负重" value="1"/>
+	</daogun>
+	<rs name="Crazy Black">
+		<data name="移动速度" value="0.4"/>
+	</rs>
+</fightdata>

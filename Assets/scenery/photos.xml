@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="photos.png">
+	<!-- Created with Adobe Animate version 15.1.0.210 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="1 实例 10000" x="4" y="4" width="371" height="371" pivotX="0" pivotY="0"/>
+	<SubTexture name="2 实例 10000" x="4" y="379" width="827" height="329" pivotX="0" pivotY="0"/>
+	<SubTexture name="3 实例 10000" x="4" y="712" width="390" height="498" pivotX="0" pivotY="0"/>
+	<SubTexture name="4 实例 10000" x="398" y="712" width="359" height="358" pivotX="0" pivotY="0"/>
+</TextureAtlas>

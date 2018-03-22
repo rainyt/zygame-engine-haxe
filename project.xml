@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="ZYGameEngineHaxe" package="com.sample.zygameenginehaxe" version="1.0.0" company="Company Name" />
+	<app main="Startup" path="Export" file="ZYGameEngineHaxe" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+
+	<haxelib name="starling" />
+
+	<haxelib name="nape"/> 
+
+	<haxelib name="dragonbones"/>
+
+	<haxelib name="haxe-crypto"/>
+	
+	<assets path="Assets" rename="assets" />
+
+	<haxedef name="js-flatten" if="html5" />
+
+	<haxedef name="NAPE_RELEASE_BUILD" />
+</project>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="select_role.png">
+	<!-- Created with Adobe Animate version 15.1.0.210 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="1p2p0000" x="0" y="0" width="182" height="68" pivotX="89.1" pivotY="32.55"/>
+	<SubTexture name="1pframe0000" x="182" y="0" width="63" height="63" pivotX="31.1" pivotY="31.05"/>
+	<SubTexture name="1phigh0000" x="245" y="0" width="319" height="78" pivotX="159" pivotY="40"/>
+	<SubTexture name="1pselected0000" x="564" y="0" width="39" height="77" pivotX="19.5" pivotY="38.5"/>
+	<SubTexture name="2pframe0000" x="603" y="0" width="63" height="63" pivotX="31.1" pivotY="31.05"/>
+	<SubTexture name="2phigh0000" x="666" y="0" width="319" height="78" pivotX="159" pivotY="40"/>
+	<SubTexture name="2pselected0000" x="985" y="0" width="39" height="77" pivotX="19.5" pivotY="38.5"/>
+	<SubTexture name="attrframe0000" x="0" y="78" width="158" height="300" pivotX="72.55" pivotY="86.15"/>
+	<SubTexture name="bg0000" x="158" y="78" width="776" height="303" pivotX="387.3" pivotY="151.6"/>
+	<SubTexture name="frame.png" x="934" y="78" width="74" height="74" pivotX="0" pivotY="0"/>
+	<SubTexture name="unuse0000" x="0" y="381" width="210" height="33" pivotX="110.65" pivotY="16.9"/>
+	<SubTexture name="use0000" x="210" y="381" width="210" height="33" pivotX="110.65" pivotY="16.9"/>
+</TextureAtlas>

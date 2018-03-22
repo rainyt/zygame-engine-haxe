@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="forest.png">
+	<!-- Created with Adobe Animate version 15.1.0.210 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="固定光源-地面 实例 10000" x="366" y="488" width="82" height="189" pivotX="0" pivotY="0"/>
+	<SubTexture name="固定光源-顶 实例 10000" x="366" y="681" width="89" height="51" pivotX="0" pivotY="0"/>
+	<SubTexture name="地皮1 实例 10000" x="4" y="849" width="271" height="49" pivotX="0" pivotY="0"/>
+	<SubTexture name="地皮2 实例 10000" x="4" y="794" width="289" height="51" pivotX="0" pivotY="0"/>
+	<SubTexture name="地皮3 实例 10000" x="4" y="734" width="300" height="56" pivotX="0" pivotY="0"/>
+	<SubTexture name="树1 实例 10000" x="4" y="4" width="270" height="403" pivotX="0" pivotY="0"/>
+	<SubTexture name="树2 实例 10000" x="4" y="411" width="253" height="260" pivotX="0" pivotY="0"/>
+	<SubTexture name="树3 实例 10000" x="278" y="4" width="224" height="480" pivotX="0" pivotY="0"/>
+	<SubTexture name="树4 实例 10000" x="261" y="488" width="101" height="242" pivotX="0" pivotY="0"/>
+	<SubTexture name="石头1 实例 10000" x="452" y="488" width="39" height="25" pivotX="0" pivotY="0"/>
+	<SubTexture name="石头2 实例 10000" x="452" y="517" width="34" height="13" pivotX="0" pivotY="0"/>
+	<SubTexture name="石头3 实例 10000" x="308" y="736" width="63" height="37" pivotX="0" pivotY="0"/>
+	<SubTexture name="顶1 实例 10000" x="297" y="794" width="206" height="69" pivotX="0" pivotY="0"/>
+	<SubTexture name="顶2 实例 10000" x="4" y="675" width="239" height="48" pivotX="0" pivotY="0"/>
+	<SubTexture name="顶3 实例 10000" x="4" y="902" width="242" height="29" pivotX="0" pivotY="0"/>
+</TextureAtlas>
