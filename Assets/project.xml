@@ -1,9 +1,0 @@
-<project dir="assets">
-  <file path="icon.png"/>
-  <file path="campsite.mp3"/>
-  <file path="bg.jpg"/>
-  <file path="btn.png"/>
-  <file path="line.png"/>
-  <file path="moveBtn.png"/>
-  <file path="data/fight.xml"/>
-</project>

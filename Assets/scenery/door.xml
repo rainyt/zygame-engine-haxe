@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="door.png">
-	<!-- Created with Adobe Animate version 15.1.0.210 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="右门 实例 10000" x="4" y="4" width="175" height="259" pivotX="13" pivotY="129"/>
-	<SubTexture name="左门 实例 10000" x="183" y="4" width="148" height="259" pivotX="161.1" pivotY="129"/>
-</TextureAtlas>
